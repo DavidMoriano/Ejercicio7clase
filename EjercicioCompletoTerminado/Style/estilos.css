@@ -1,0 +1,39 @@
+#primerh2{
+    color: aqua;
+}
+#programa1 {
+    text-align: center;
+}
+#imagen {
+    width: 50ex;
+    height: 25ex;
+    float: right;
+}
+#imagen2 {
+    width: 50ex;
+    height: 25ex;
+    float: left;
+}
+#raya1{
+    height: 2px;
+    background-color: black;
+}
+#rojo{
+    color: red;
+    font-weight: bold;
+}
+
+div{
+    width: 48%;
+    text-align: center;
+}
+
+#div1{
+    float: left;
+}
+#div2{
+    float: right;
+}
+
+
+
